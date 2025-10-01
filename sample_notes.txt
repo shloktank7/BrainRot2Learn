@@ -1,0 +1,26 @@
+Machine Learning Exam 1 – Study Notes
+
+Supervised Learning:
+- Maps inputs (features) to outputs (labels) with known ground truth.
+- Common algorithms: Linear/Logistic Regression, Decision Trees, SVMs, kNN.
+- Metrics: accuracy, precision, recall, F1, ROC-AUC.
+
+Unsupervised Learning:
+- Finds structure in unlabeled data (clusters/dimensions).
+- Algorithms: k-means, hierarchical clustering, PCA, t-SNE.
+- Use cases: customer segmentation, anomaly detection, visualization.
+
+Neural Networks:
+- Layers of linear transforms + nonlinear activations.
+- Training via backpropagation and gradient descent (SGD/Adam).
+- Overfitting vs. generalization; use regularization & proper validation.
+
+Responsible AI:
+- Bias can appear via data, modeling choices, or deployment context.
+- Mitigate with balanced datasets, careful evaluation, transparency.
+- Privacy and security: protect data; consider adversarial robustness.
+
+Exam Tips:
+- Understand definitions and when to apply each method.
+- Be able to read confusion matrices and compute precision/recall.
+- Practice interpreting ROC curves and trade-offs.
